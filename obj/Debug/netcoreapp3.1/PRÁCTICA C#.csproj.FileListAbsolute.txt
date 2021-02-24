@@ -1,0 +1,13 @@
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.exe
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.deps.json
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.runtimeconfig.json
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.runtimeconfig.dev.json
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.dll
+C:\laragon\PRÁCTICA C#\bin\Debug\netcoreapp3.1\PRÁCTICA C#.pdb
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.csprojAssemblyReference.cache
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.AssemblyInfoInputs.cache
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.AssemblyInfo.cs
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.csproj.CoreCompileInputs.cache
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.dll
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.pdb
+C:\laragon\PRÁCTICA C#\obj\Debug\netcoreapp3.1\PRÁCTICA C#.genruntimeconfig.cache
