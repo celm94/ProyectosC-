@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj": {}
+    "c:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj": {}
   },
   "projects": {
-    "C:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj": {
+    "c:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj",
+        "projectUniqueName": "c:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj",
         "projectName": "PRÁCTICA C#",
-        "projectPath": "C:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj",
+        "projectPath": "c:\\laragon\\PRÁCTICA C#\\PRÁCTICA C#.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\PRÁCTICA C#\\obj\\",
+        "outputPath": "c:\\laragon\\PRÁCTICA C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
